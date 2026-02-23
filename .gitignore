@@ -1,3 +1,4 @@
 # Tableau backup/temporary files
 ~*.twbr
 *.twbr~
+*.tds
